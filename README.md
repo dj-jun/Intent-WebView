@@ -68,8 +68,8 @@
 
     android:usesCleartextTraffic="true"
 ## 结果截图如下：
-<img width="200" src="https://github.com/dj-jun/Intent-WebView/blob/master/images/1.png"/>
+<img width="200" src="https://github.com/dj-jun/Intent-WebView/blob/master/pictures/1.png"/>
 
-<img width="200" src="https://github.com/dj-jun/Intent-WebView/blob/master/images/2.png"/>
+<img width="200" src="https://github.com/dj-jun/Intent-WebView/blob/master/pictures/2.png"/>
 
-<img width="200" src="https://github.com/dj-jun/Intent-WebView/blob/master/images/3.png"/>
+<img width="200" src="https://github.com/dj-jun/Intent-WebView/blob/master/pictures/3.png"/>
